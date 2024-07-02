@@ -22,4 +22,4 @@ Saves time compared to manual SQL commands.
 Enables data manipulation and analysis using pandas DataFrames.
 
 **Following is the list of SQL questions and Answers that I solved for this Case study**
-
+[Paintings Case Study - SQL solved Questions](https://github.com/Pearl2307/Paintings-Case-Study---SQL-Project-/blob/main/Paintings%20SQL%20solved.sql)
