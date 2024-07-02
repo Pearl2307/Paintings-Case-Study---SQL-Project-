@@ -1,11 +1,11 @@
 # Paintings-Case-Study---SQL-Project-
 
-This is a Case study done using SQL on a data set from kaggle . https://www.kaggle.com/datasets/mexwell/famous-paintings
+This is a Case study done using SQL on a data set from kaggle . [Dataset- Paintings](https://www.kaggle.com/datasets/mexwell/famous-paintings)
 
 **Getting data into SQL using Python**
 
 I automated the process of creating SQL tables for this project by using Python with SQLAlchemy. This approach effectively reduced the time investment compared to manual SQL setup.
-Here is the code attached - https://github.com/Pearl2307/Paintings-Case-Study---SQL-Project-/blob/main/Python%20to%20SQL%20.ipynb
+Here is the code attached - [SQL Table Creation using python](https://github.com/Pearl2307/Paintings-Case-Study---SQL-Project-/blob/main/Python%20to%20SQL%20.ipynb)
 
 **Explaination**: This code efficiently creates tables in a PostgreSQL database using Python.
 
