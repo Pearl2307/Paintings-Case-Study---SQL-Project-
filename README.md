@@ -5,7 +5,7 @@ This is a Case study done using SQL on a data set from kaggle . https://www.kagg
 **Getting data into SQL using Python**
 
 I automated the process of creating SQL tables for this project by using Python with SQLAlchemy. This approach effectively reduced the time investment compared to manual SQL setup.
-Here is the code attached -
+Here is the code attached - https://github.com/Pearl2307/Paintings-Case-Study---SQL-Project-/blob/main/Python%20to%20SQL%20.ipynb
 
 **Explaination**: This code efficiently creates tables in a PostgreSQL database using Python.
 
